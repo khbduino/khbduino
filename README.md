@@ -1,19 +1,5 @@
-### 백엔드 개발자 김현빈입니다. 👋
+### 백엔드 개발자 김현빈입니다.😀 👋
 
-<!--
-**khbduino/khbduino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 새로운 경험과 지식 학습 여정을 시작하여 끊임없는 도전으로 발전하는 개발자가 되고자 합니다.
 
 열정적으로 일하고 지속적인 성장을 추구하는 개발자를 목표로 삼고있습니다
@@ -33,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-프로젝트 경험
+## 프로젝트 경험
 
 핵심프로젝트 2024-03-22 ~ 2024-04-05
 
@@ -50,3 +36,8 @@ Here are some ideas to get you started:
 프로젝트는 주제 선정과 아이디어 회의, 업무 분배, 코딩 순으로 진행되었습니다. 매일 코딩을 하면서 중간 회의를 통해 업무 진행 상황을 서로 공유하고 프로젝트 진행도를 확인했습니다. 서로가 처음 배우는 단계로 시작한 프로젝트였기 때문에 서로 도와가며 프로젝트를 진행했습니다.
 
 중간 중간 회의를 통해 업무 분배를 확실히 하고 서로 협력하여 프로젝트를 진행했기 때문에 진행도가 좋았습니다. 이를 통해 협업의 중요성을 깨닫는 좋은 프로젝트였습니다.
+
+## 기타사항
+
+같이 수업을 하는 인원들과 함께 스터디그룹을 형성하여 주 1회 모여서 스터디를 진행하였습니다. 스터디시간에는 각자 개인 공부를 하거나 코딩테스트를 진행하였고 각자 코드를 작성하면서 이해 안되는 부분이 있다면 알려주고 모르는 부분이 있다면 물어보는 식으로 진행하였습니다.
+
