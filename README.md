@@ -1,4 +1,4 @@
-### Hi there 👋
+### 백엔드 개발자 김현빈입니다. 👋
 
 <!--
 **khbduino/khbduino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
