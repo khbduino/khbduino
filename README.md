@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-개인 경험
+프로젝트 경험
 
 핵심프로젝트 2024-03-22 ~ 2024-04-05
 
